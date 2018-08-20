@@ -8,5 +8,6 @@ USE: - you can use this in the office where you have to read and anlyze bunch of
        you can use it in colleges, school in administration department for the anlzyinf of the fees of the student
        
 Project 2: -
+
 Hangman Game: -
 This is basic game of findind correct alphbet of the display word, if you get the answer you win if not then you loose. It has option to see your statistics and option to quit. this game is simple based on the loops and the condition statements.
