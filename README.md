@@ -17,3 +17,7 @@ Project 3: -
 Data Analyzer: -
 This project is totally based on the interaction with the UI, we have to just enter the details in the UI and then it will the record and create the spread sheet
 
+Project 4: -
+
+Maze Runner (Recursive Solution): -
+This Project is based on the Maze runner game where user has to reach from start to Goal by scanning the whole maze and find the bset suitable and smallest path to reach. This solution is based on the recursive method as well as backtracking where if user enters wrong path then it will backtrack its path and try for another path.
