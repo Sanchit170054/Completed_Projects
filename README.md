@@ -32,3 +32,7 @@ Project 6: -
 Medicine Information Management Tool: -
 This project is totaly based on the Dictionary where user can access two tabs, AboutUs tab in which the user can add the details about their comapny or their organization and the second tab is the medicine information tab where user load the file name medicinedetail.txt which included details about the medicine and then according to their wish can search, add and edit thire descriptions. The changes made in both the tabs will be saved into new file which you will find in Repository folder.
 
+Project 7: -
+
+Science and Engineering Calculator Project for critical space mission professionals: -
+This project is totaly based on the failure of the mars climate mission. This is a type of calculator having user interactive interface where user enter the input in both the operands along with their SI Unit and when the user clicks on any buttons(+,-,*,/, and sqrt), he/she will get the results upto as many digits as user wants along with the result's unit. Moreover, user also change the result unit according to its need and in the same as user change the units, results will automatically change accordingly.
