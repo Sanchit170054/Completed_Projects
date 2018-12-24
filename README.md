@@ -36,3 +36,8 @@ Project 7: -
 
 Science and Engineering Calculator Project for critical space mission professionals: -
 This project is totaly based on the failure of the mars climate orbiter mission. This is a type of calculator having User's Interactive interface where user enter the input in both the operands along with their SI Unit and when the user clicks on any buttons(+,-,*,/, and sqrt), he/she will get the results upto as many digits as user wants along with the result's unit. Moreover, user also change the result unit according to its need and in the same as user change the units, results will automatically change accordingly.
+
+Project 8: -
+
+Conway Game Of Life using Pointers: -
+This Project is implemented in C language. In this project, I had to implement all four rules which are crucial for this game. This is CUI game in which user first enter the number of rows and columns and then according to the instruction, he/she will enter the input. In this game user can can enter n number of generation to show.
