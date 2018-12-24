@@ -24,7 +24,7 @@ This Project is based on the Maze runner game where user has to reach from start
 
 Project 5: -
 
-Personal Knwoledge Management Tool: -
+Dictionary Management Tool: -
 This project is tottaly based on the Dictionary where user can access three tabs, Contact tab in which user load the contacts file(contact.txt) and can delete, edit, add and search different contacts according to his/her wish. Dictionary tab where user load the file name First20k.txt and then according to their wish can search, add, delet and edit the words with their defincations and third tab is to-do/notes where user can save their todo items and notes by using toggle buttons. The changes made in all the three tabs will be saved into new file which you will find in Repository folder.
 
 Project 6: -
