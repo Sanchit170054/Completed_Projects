@@ -24,20 +24,25 @@ This Project is based on the Maze runner game where user has to reach from start
 
 Project 5: -
 
+Maze Runner (Iterative Approach): -
+This Project is based on the Maze runner game where user has to reach from start to Goal by iterating the whole maze and find the bset suitable and smallest path to reach. This solution is based on the iteratve method as well as backtracking where if user enters wrong path then it will backtrack its path and try for another path.
+
+Project 6: -
+
 Dictionary Management Tool: -
 This project is tottaly based on the Dictionary where user can access three tabs, Contact tab in which user load the contacts file(contact.txt) and can delete, edit, add and search different contacts according to his/her wish. Dictionary tab where user load the file name First20k.txt and then according to their wish can search, add, delet and edit the words with their defincations and third tab is to-do/notes where user can save their todo items and notes by using toggle buttons. The changes made in all the three tabs will be saved into new file which you will find in Repository folder.
 
-Project 6: -
+Project 7: -
 
 Medicine Information Management Tool: -
 This project is totaly based on the Dictionary where user can access two tabs, AboutUs tab in which the user can add the details about their comapny or their organization and the second tab is the medicine information tab where user load the file name medicinedetail.txt which included details about the medicine and then according to their wish can search, add and edit thire descriptions. The changes made in both the tabs will be saved into new file which you will find in Repository folder.
 
-Project 7: -
+Project 8: -
 
 Science and Engineering Calculator Project for critical space mission professionals: -
 This project is totaly based on the failure of the mars climate orbiter mission. This is a type of calculator having User's Interactive interface where user enter the input in both the operands along with their SI Unit and when the user clicks on any buttons(+,-,*,/, and sqrt), he/she will get the results upto as many digits as user wants along with the result's unit. Moreover, user also change the result unit according to its need and in the same as user change the units, results will automatically change accordingly.
 
-Project 8: -
+Project 9: -
 
 Conway Game Of Life using Pointers: -
 This Project is implemented in C language. In this project, I had to implement all four rules which are crucial for this game. This is CUI game in which user first enter the number of rows and columns and then according to the instruction, he/she will enter the input. In this game user can can enter n number of generation to show.
