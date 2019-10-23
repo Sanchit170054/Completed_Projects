@@ -46,3 +46,15 @@ Project 9: -
 
 Conway Game Of Life using Pointers: -
 This Project is implemented in C language. In this project, I had to implement all four rules which are crucial for this game. This is CUI game in which user first enter the number of rows and columns and then according to the instruction, he/she will enter the input. In this game user can can enter n number of generation to show.
+
+Project 10: -
+
+Tic Tac Toc game using Python: -
+This project is on python and its is console based game where user has to follow some instructions and based on it provide some input to play.
+
+Project 11: -
+
+Card Deck game using Python: -
+This project is also similar to project 10 where user play the game while interacting with the conole and provides as per the required inputs.
+
+Project 12: -
