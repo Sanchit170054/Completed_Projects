@@ -58,3 +58,11 @@ Card Deck game using Python: -
 This project is also similar to project 10 where user play the game while interacting with the conole and provides as per the required inputs.
 
 Project 12: -
+
+Python Game using python lanaguage: -
+This project is implemented in a advance level. This is based on the user interface. It's like a ship has to destroyed the meteros coming from the sky to score the poits.
+
+Project 13: -
+
+Bank Account Manger using python: -
+This project is implemented using OOPs concept in python language. Here I introduce the three class in which each class has its own role. This program is basically a command line interaction for the bank account manipulations.
