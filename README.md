@@ -71,3 +71,8 @@ Project 14: -
 
 Project_1: -
 This project is based on statistical analysis of the data and it is implemented using python and R language. This project help us to find the relation between the player’s gaming time and their break time during their playing interval based on the provided data.
+
+Project 15: -
+
+Project_2: -
+This project is also based on the statistical analysis in which we have to perform some computations like prediction interval,find coorelation coffeicient to find the probability of the proivded data using python language.
