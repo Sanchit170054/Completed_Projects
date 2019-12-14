@@ -66,3 +66,6 @@ Project 13: -
 
 Bank Account Manger using python: -
 This project is implemented using OOPs concept in python language. Here I introduce the three class in which each class has its own role. This program is basically a command line interaction for the bank account manipulations.
+
+Project 14: -
+This project is based on statistical analysis of the data and it is implemented using python and R language. This project help us to find the relation between the player’s gaming time and their break time during their playing interval based on the provided data.
